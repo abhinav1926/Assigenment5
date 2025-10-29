@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assigenment5.git/static/css/main.e3943f30.css",
+    "main.js": "/Assigenment5.git/static/js/main.469da2ef.js",
+    "static/js/453.53ca07f0.chunk.js": "/Assigenment5.git/static/js/453.53ca07f0.chunk.js",
+    "index.html": "/Assigenment5.git/index.html",
+    "main.e3943f30.css.map": "/Assigenment5.git/static/css/main.e3943f30.css.map",
+    "main.469da2ef.js.map": "/Assigenment5.git/static/js/main.469da2ef.js.map",
+    "453.53ca07f0.chunk.js.map": "/Assigenment5.git/static/js/453.53ca07f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3943f30.css",
+    "static/js/main.469da2ef.js"
+  ]
+}
